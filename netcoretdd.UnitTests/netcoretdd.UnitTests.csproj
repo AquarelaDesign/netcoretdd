@@ -23,11 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Helpers\" />
-    <Folder Include="Systems\Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\netcoretdd.API\netcoretdd.API.csproj" />
   </ItemGroup>
 
